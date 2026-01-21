@@ -37,7 +37,7 @@ O usuário pode definir horas, minutos e segundos, e o alarme tocará no horári
 
 1. Clone o repositório:
    **```bash
-git clone https://github.com/seu-usuario/python-alarm-clock.git**
+git clone https://github.com/danizin21/python-alarm-clock.git**
 
 2. Entre na pasta do projeto:
 cd python-alarm-clock
